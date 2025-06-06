@@ -25,8 +25,7 @@ Agora você conversa com o Copilot para montar seu bot.
 
 🔹 3. Diga o que você quer
 Digite ou fale:
-
-🗨️ "Crie um copilot que responda perguntas sobre Inteligência Artificial."
+Crie um copilot que responda perguntas sobre Inteligência Artificial.
 
 Ele vai gerar a estrutura inicial do seu projeto, incluindo:
 
